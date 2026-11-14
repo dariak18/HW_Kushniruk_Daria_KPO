@@ -1,0 +1,26 @@
+﻿[
+  {
+    "studentId": 1,
+    "studentName": "Кушнирук Дарья",
+    "value": 9.0,
+    "gradedCriteria": 3,
+    "totalCriteria": 3,
+    "rule": "средневзвешенное по оценённым критериям, округление до 1 зн."
+  },
+  {
+    "studentId": 2,
+    "studentName": "Пронина Ульяна",
+    "value": 9.1,
+    "gradedCriteria": 3,
+    "totalCriteria": 3,
+    "rule": "средневзвешенное по оценённым критериям, округление до 1 зн."
+  },
+  {
+    "studentId": 3,
+    "studentName": "Кузьмина Юлия",
+    "value": 5.4,
+    "gradedCriteria": 2,
+    "totalCriteria": 3,
+    "rule": "средневзвешенное по оценённым критериям, округление до 1 зн."
+  }
+]

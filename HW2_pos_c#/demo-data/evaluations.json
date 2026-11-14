@@ -1,0 +1,58 @@
+[
+  {
+    "StudentId": 1,
+    "CriterionId": 1,
+    "Score": 10,
+    "Comment": null,
+    "EvaluatedAtUtc": "2026-11-01T12:26:56.616256Z"
+  },
+  {
+    "StudentId": 1,
+    "CriterionId": 2,
+    "Score": 8,
+    "Comment": "Хорошая работа",
+    "EvaluatedAtUtc": "2026-11-01T12:26:56.619461Z"
+  },
+  {
+    "StudentId": 1,
+    "CriterionId": 3,
+    "Score": 5,
+    "Comment": null,
+    "EvaluatedAtUtc": "2026-11-01T12:26:56.619602Z"
+  },
+  {
+    "StudentId": 2,
+    "CriterionId": 1,
+    "Score": 10,
+    "Comment": null,
+    "EvaluatedAtUtc": "2026-11-01T12:26:56.619703Z"
+  },
+  {
+    "StudentId": 2,
+    "CriterionId": 2,
+    "Score": 9,
+    "Comment": null,
+    "EvaluatedAtUtc": "2026-11-01T12:26:56.61995Z"
+  },
+  {
+    "StudentId": 2,
+    "CriterionId": 3,
+    "Score": 4,
+    "Comment": null,
+    "EvaluatedAtUtc": "2026-11-01T12:26:56.620044Z"
+  },
+  {
+    "StudentId": 3,
+    "CriterionId": 1,
+    "Score": 6,
+    "Comment": null,
+    "EvaluatedAtUtc": "2026-11-01T12:26:56.620131Z"
+  },
+  {
+    "StudentId": 3,
+    "CriterionId": 2,
+    "Score": 5,
+    "Comment": "Пересмотрено после апелляции",
+    "EvaluatedAtUtc": "2026-11-01T12:26:56.624208Z"
+  }
+]
